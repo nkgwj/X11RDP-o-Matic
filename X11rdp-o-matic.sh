@@ -30,7 +30,7 @@ set -e
 
 LINE="----------------------------------------------------------------------"
 # Use the canonical git repo by default
-XRDPGIT=https://github.com/neutrinolabs/xrdp.git
+XRDPGIT=https://github.com/nkgwj/xrdp.git
 # Use the master branch by default
 XRDPBRANCH=master
 
